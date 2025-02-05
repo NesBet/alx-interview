@@ -1,4 +1,4 @@
-##  Minimum Operations  
+##  MINIMUM OPERATIONS  
 Concepts Needed:  
 
 Dynamic Programming:
