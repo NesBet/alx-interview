@@ -1,2 +1,2 @@
-**Pascal's Triangle**  
-This project contains tasks for working with Pascal's triangle.
+# PASCAL'S TRIANGLE  
+This project highlights how to work with Pascal's triangle.
